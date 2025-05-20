@@ -16,3 +16,15 @@ h3{
     color: gold;
     font-family: cursive;
 }
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+    color:blue;
+    font-family: cursive;
+}
+
+OL{
+    list-style-image: url('images/pointer-icon.png');
+    color:blue;
+    font-family: cursive;
+}
